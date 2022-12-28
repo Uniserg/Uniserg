@@ -11,7 +11,7 @@
     <b>Go</b>
     <img src='icons/language/haskell.svg' width="50" height="50"/> 
     <b>Haskell</b>
-    <img src='icons/language/charp.svg' width="50" height="50"/> 
+    <img src='icons/language/csharp.svg' width="50" height="50"/> 
     <b>C#</b>
     <img src='icons/language/javascript.svg' width="50" height="50"/>
     <b>JavaScript</b>
@@ -65,7 +65,7 @@
 
 <div align="center">
     <img src='icons/design/figma.svg' width="50" height="50"/> 
-    <b>Flutter</b>
+    <b>Figma</b>
 </div>
 
 ## ⎈ DevOps
@@ -73,7 +73,7 @@
 <div align="center">
     <img src='icons/devops/docker.svg' width="50" height="50"/> 
     <b>Docker</b>
-    <img src='icons/devops/Kubernetes.svg' width="50" height="50"/> 
+    <img src='icons/devops/kubernetes.svg' width="50" height="50"/> 
     <b>Kubernetes</b>
 </div>
 
