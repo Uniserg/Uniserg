@@ -71,7 +71,7 @@
 ## ⎈ DevOps
 
 <div align="center">
-    <img src='icons/devops/docker.webp' width="50" height="50"/> 
+    <img src='icons/devops/docker.webp' width="65" height="50"/> 
     <b>Docker</b>
     <img src='icons/devops/kubernetes.svg' width="50" height="50"/> 
     <b>Kubernetes</b>
