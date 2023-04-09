@@ -3,6 +3,8 @@
 ## 👅 Languages
 
 <div align="center">
+    <img src='icons/language/dart.svg' width="50" height="50"/> 
+    <b>Dart</b>
     <img src='icons/language/java.svg' width="50" height="50"/> 
     <b>Java</b>
     <img src='icons/language/python.svg' width="50" height="50"/> 
