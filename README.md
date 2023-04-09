@@ -20,9 +20,9 @@
 ## 🖴 Data Bases
 
 <div align="center">
-    <img src='icons/database/janusgraph.svg' width="50" height="50"/> 
+    <img src='icons/database/janusgraph.svg' width="70" height="70"/> 
     <b>JanusGraph</b>
-    <img src='icons/database/cassandra.svg' width="50" height="50"/> 
+    <img src='icons/database/cassandra.svg' width="90" height="70"/> 
     <b>Cassandra</b>
     <img src='icons/database/neo4j.svg' width="50" height="50"/> 
     <b>Neo4j</b>
