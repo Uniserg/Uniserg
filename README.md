@@ -13,6 +13,8 @@
     <b>Go</b>
     <img src='icons/language/haskell.svg' width="50" height="50"/> 
     <b>Haskell</b>
+    <img src='icons/language/gremlin-running.png' width="50" height="50"/>
+    <b>Gremlin</b>
     <img src='icons/language/csharp.svg' width="50" height="50"/> 
     <b>C#</b>
     <img src='icons/language/javascript.svg' width="50" height="50"/>
@@ -22,6 +24,8 @@
 ## 🖴 Data Bases
 
 <div align="center">
+    <img src='icons/database/TinkerPop.png' width="50" height="50"/> 
+    <b>TinkerPop</b>
     <img src='icons/database/janusgraph.png' width="150" height="50"/> 
     <b>JanusGraph</b>
     <img src='icons/database/cassandra.svg' width="90" height="70"/> 
