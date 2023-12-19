@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+Here are my skills and the technologies I have had experience with.
+
 ## 👅 Languages
 
 <div align="center">
